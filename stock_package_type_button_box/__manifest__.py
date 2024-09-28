@@ -6,7 +6,7 @@
     "summary": """
         DEPRECATED - This module is a technical module that allows to fill in a button box
         for Stock Package Type form view""",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "license": "AGPL-3",
     "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
     "maintainers": ["rousseldenis"],
